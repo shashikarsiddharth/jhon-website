@@ -1,2 +1,2 @@
-# jhon-website
+# john-website
 Sample Personal Website 
